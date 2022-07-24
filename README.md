@@ -1,5 +1,5 @@
 # fullstack-blogging-application
-This is a fullstack blogging application where backend is developed in cutting edge java technologies like Spring boot , Spring Data JPA , Spring Security , JWT Authentication and Authorization , Roles based Authentication . Here in this project i have used Swagger
+This is a fullstack blogging application where backend is developed in latest cutting edge java technologies like Spring boot , Spring Data JPA , Spring Security , JWT Authentication and Authorization , Roles based Authentication . Here in this project i have used Swagger
 also to document the API
 
 #### Project Structure
