@@ -4,7 +4,7 @@
 This is a fullstack blogging application <br>
 
 ## Technology Stack Used <br>
-![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=java&style=flat-square) 
+![JAVA](https://img.shields.io/badge/frontend-html-orange.svg?logo=java&style=flat-square) 
 
 
 #### Project Structure
