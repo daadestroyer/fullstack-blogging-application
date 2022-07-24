@@ -1,8 +1,11 @@
 # fullstack-blogging-application
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/daadestroyer)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/daadestroyer) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/daadestroyer) <br>
-This is a fullstack blogging application where backend is developed in latest cutting edge java technologies like Spring boot , Spring Data JPA , Spring Security , JWT Authentication and Authorization , Roles based Authentication . Here in this project i have used Swagger
-also to document the API
+This is a fullstack blogging application <br>
+
+## Technology Stack Used <br>
+![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=java&style=flat-square) 
+
 
 #### Project Structure
 ![Project Structure](https://user-images.githubusercontent.com/48306820/180637846-b5e8077e-381c-4396-89e9-b8e4a83714e1.png)
