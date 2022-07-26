@@ -6,6 +6,8 @@ This is a fullstack blogging application <br>
 ## Technology Stack Used <br>
 ![JAVA](https://img.shields.io/badge/frontend-html-orange.svg?logo=java&style=flat-square) 
 
+<img alt="Custom badge" src="https://img.shields.io/endpoint?color=red&label=frontend&logo=springboot&logoColor=green">
+
 
 #### Project Structure
 ![Project Structure](https://user-images.githubusercontent.com/48306820/180637846-b5e8077e-381c-4396-89e9-b8e4a83714e1.png)
